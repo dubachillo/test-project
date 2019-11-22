@@ -1,4 +1,4 @@
-public class MassiveSort{
+public class ArraysSort {
 	public static void main(String[] args){
 		
 		int[] a = {1,3,2,4,6,5,8,7,56,234,214,1, 12332124, 12, 1244, 66, 77, 33};
